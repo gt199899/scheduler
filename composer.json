@@ -1,0 +1,14 @@
+{
+  "name": "gt199899/scheduler",
+  "description": "a scheduler",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tgao",
+      "email": "gt199899@gmail.com"
+    }
+  ],
+  "require":{
+    "php":">=7.0.0"
+  }
+}
